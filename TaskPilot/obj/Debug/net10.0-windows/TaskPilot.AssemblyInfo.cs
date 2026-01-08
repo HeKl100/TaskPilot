@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskPilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1eeccdd8827263ef91bf1145c51367a989df821")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskPilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskPilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

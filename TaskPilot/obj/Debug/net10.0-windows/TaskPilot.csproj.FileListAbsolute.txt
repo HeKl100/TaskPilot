@@ -1,0 +1,17 @@
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\bin\Debug\net10.0-windows\TaskPilot.exe
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\bin\Debug\net10.0-windows\TaskPilot.deps.json
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\bin\Debug\net10.0-windows\TaskPilot.runtimeconfig.json
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\bin\Debug\net10.0-windows\TaskPilot.dll
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\bin\Debug\net10.0-windows\TaskPilot.pdb
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.MainForm.resources
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.csproj.GenerateResource.cache
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.AssemblyInfoInputs.cache
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.AssemblyInfo.cs
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.csproj.CoreCompileInputs.cache
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.sourcelink.json
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.dll
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\refint\TaskPilot.dll
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.pdb
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\TaskPilot.genruntimeconfig.cache
+C:\Users\HeKl\source\repos\TaskPilot\TaskPilot\obj\Debug\net10.0-windows\ref\TaskPilot.dll
